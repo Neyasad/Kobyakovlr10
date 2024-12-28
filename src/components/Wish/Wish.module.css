@@ -1,0 +1,25 @@
+.mid121{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	margin:  0 40px;
+	transition: all 0.5s;
+}
+.mid121:hover{
+	margin:  0 100px;
+	transform: scale(1.4);
+	background-color: rgb(58, 177, 236);
+}
+.mid_h {
+	padding-top: 20px;
+}
+.Lorem {
+	color: grey;
+	text-align: center;
+	width: 300px;
+}
+.img {
+	max-width: 400px;
+    height: auto;
+}
