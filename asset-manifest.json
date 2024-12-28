@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Neyasad/Kobyakovlr10/static/css/main.30119537.css",
+    "main.js": "/Neyasad/Kobyakovlr10/static/js/main.50a22b89.js",
+    "index.html": "/Neyasad/Kobyakovlr10/index.html",
+    "main.30119537.css.map": "/Neyasad/Kobyakovlr10/static/css/main.30119537.css.map",
+    "main.50a22b89.js.map": "/Neyasad/Kobyakovlr10/static/js/main.50a22b89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30119537.css",
+    "static/js/main.50a22b89.js"
+  ]
+}
